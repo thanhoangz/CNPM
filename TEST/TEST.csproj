@@ -1,0 +1,231 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{8B411E33-0315-4EBC-996F-E479E39AFF4E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>TEST</RootNamespace>
+    <AssemblyName>TEST</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.5.3">
+      <HintPath>..\..\..\..\Desktop\Bunifu_UI_v1.5.3\Bunifu_UI_v1.5.3.dll</HintPath>
+    </Reference>
+    <Reference Include="LiveCharts, Version=0.9.7.0, Culture=neutral, PublicKeyToken=0bc1f845d1ebb8df, processorArchitecture=MSIL">
+      <HintPath>..\packages\LiveCharts.0.9.7\lib\net45\LiveCharts.dll</HintPath>
+    </Reference>
+    <Reference Include="LiveCharts.WinForms, Version=0.9.7.1, Culture=neutral, PublicKeyToken=0bc1f845d1ebb8df, processorArchitecture=MSIL">
+      <HintPath>..\packages\LiveCharts.WinForms.0.9.7.1\lib\net45\LiveCharts.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="LiveCharts.Wpf, Version=0.9.7.0, Culture=neutral, PublicKeyToken=0bc1f845d1ebb8df, processorArchitecture=MSIL">
+      <HintPath>..\packages\LiveCharts.Wpf.0.9.7\lib\net45\LiveCharts.Wpf.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+    <Reference Include="WindowsFormsIntegration" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FormLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLogin.Designer.cs">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_SuaLichHencs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_SuaLichHencs.designer.cs">
+      <DependentUpon>Form_SuaLichHencs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_ThemLichHen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_ThemLichHen.designer.cs">
+      <DependentUpon>Form_ThemLichHen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_XoaLichHen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_XoaLichHen.designer.cs">
+      <DependentUpon>Form_XoaLichHen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMain.Designer.cs">
+      <DependentUpon>FrmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_AddDichVu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_AddDichVu.Designer.cs">
+      <DependentUpon>Frm_AddDichVu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_AddThuoc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_AddThuoc.Designer.cs">
+      <DependentUpon>Frm_AddThuoc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_EditThuoc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_EditThuoc.Designer.cs">
+      <DependentUpon>Frm_EditThuoc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Edit_DichVu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Edit_DichVu.Designer.cs">
+      <DependentUpon>Frm_Edit_DichVu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UserControl_Account_System.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl_Account_System.designer.cs">
+      <DependentUpon>UserControl_Account_System.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl_LichHen.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl_LichHen.Designer.cs">
+      <DependentUpon>UserControl_LichHen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl_QuanLyDichVu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl_QuanLyDichVu.Designer.cs">
+      <DependentUpon>UserControl_QuanLyDichVu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl_QuanLyThuoc.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl_QuanLyThuoc.Designer.cs">
+      <DependentUpon>UserControl_QuanLyThuoc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl_System.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl_System.designer.cs">
+      <DependentUpon>UserControl_System.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl_ThongKe.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl_ThongKe.Designer.cs">
+      <DependentUpon>UserControl_ThongKe.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="FormLogin.resx">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_SuaLichHencs.resx">
+      <DependentUpon>Form_SuaLichHencs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_ThemLichHen.resx">
+      <DependentUpon>Form_ThemLichHen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_XoaLichHen.resx">
+      <DependentUpon>Form_XoaLichHen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMain.resx">
+      <DependentUpon>FrmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_AddDichVu.resx">
+      <DependentUpon>Frm_AddDichVu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_AddThuoc.resx">
+      <DependentUpon>Frm_AddThuoc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_EditThuoc.resx">
+      <DependentUpon>Frm_EditThuoc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Edit_DichVu.resx">
+      <DependentUpon>Frm_Edit_DichVu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="UserControl_Account_System.resx">
+      <DependentUpon>UserControl_Account_System.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl_LichHen.resx">
+      <DependentUpon>UserControl_LichHen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl_QuanLyDichVu.resx">
+      <DependentUpon>UserControl_QuanLyDichVu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl_QuanLyThuoc.resx">
+      <DependentUpon>UserControl_QuanLyThuoc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl_System.resx">
+      <DependentUpon>UserControl_System.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl_ThongKe.resx">
+      <DependentUpon>UserControl_ThongKe.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wPEgISa.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

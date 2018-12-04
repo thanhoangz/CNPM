@@ -1,0 +1,117 @@
+C:\Users\Than Hoang\Source\Repos\Project_CNPM\TEST\obj\Debug\TEST.csprojAssemblyReference.cache
+C:\Users\Than Hoang\Source\Repos\Project_CNPM\TEST\obj\Debug\TEST.FormLogin.resources
+C:\Users\Than Hoang\Source\Repos\Project_CNPM\TEST\obj\Debug\TEST.Properties.Resources.resources
+C:\Users\Than Hoang\Source\Repos\Project_CNPM\TEST\obj\Debug\TEST.csproj.GenerateResource.cache
+C:\Users\Than Hoang\Source\Repos\Project_CNPM\TEST\obj\Debug\TEST.csproj.CoreCompileInputs.cache
+C:\Users\Than Hoang\Source\Repos\Project_CNPM\TEST\bin\Debug\TEST.exe.config
+C:\Users\Than Hoang\Source\Repos\Project_CNPM\TEST\bin\Debug\TEST.exe
+C:\Users\Than Hoang\Source\Repos\Project_CNPM\TEST\bin\Debug\TEST.pdb
+C:\Users\Than Hoang\Source\Repos\Project_CNPM\TEST\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Than Hoang\Source\Repos\Project_CNPM\TEST\obj\Debug\TEST.csproj.CopyComplete
+C:\Users\Than Hoang\Source\Repos\Project_CNPM\TEST\obj\Debug\TEST.exe
+C:\Users\Than Hoang\Source\Repos\Project_CNPM\TEST\obj\Debug\TEST.pdb
+C:\Users\Than Hoang\Source\Repos\Project_CNPM\TEST\obj\Debug\TEST.temp.resources
+C:\Users\Than Hoang\Source\Repos\Project_CNPM\TEST\obj\Debug\TEST.UserControl1.resources
+C:\Users\hoang\Documents\ProCNPM\TEST\bin\Debug\TEST.exe.config
+C:\Users\hoang\Documents\ProCNPM\TEST\bin\Debug\TEST.exe
+C:\Users\hoang\Documents\ProCNPM\TEST\bin\Debug\TEST.pdb
+C:\Users\hoang\Documents\ProCNPM\TEST\obj\Debug\TEST.csprojAssemblyReference.cache
+C:\Users\hoang\Documents\ProCNPM\TEST\obj\Debug\TEST.FormLogin.resources
+C:\Users\hoang\Documents\ProCNPM\TEST\obj\Debug\TEST.FrmMain.resources
+C:\Users\hoang\Documents\ProCNPM\TEST\obj\Debug\TEST.Properties.Resources.resources
+C:\Users\hoang\Documents\ProCNPM\TEST\obj\Debug\TEST.temp.resources
+C:\Users\hoang\Documents\ProCNPM\TEST\obj\Debug\TEST.UserControl1.resources
+C:\Users\hoang\Documents\ProCNPM\TEST\obj\Debug\TEST.csproj.GenerateResource.cache
+C:\Users\hoang\Documents\ProCNPM\TEST\obj\Debug\TEST.csproj.CoreCompileInputs.cache
+C:\Users\hoang\Documents\ProCNPM\TEST\obj\Debug\TEST.csproj.CopyComplete
+C:\Users\hoang\Documents\ProCNPM\TEST\obj\Debug\TEST.exe
+C:\Users\hoang\Documents\ProCNPM\TEST\obj\Debug\TEST.pdb
+C:\Users\hoang\Documents\ProCNPM\TEST\obj\Debug\TEST.UserControl_QuanLyThuoc.resources
+C:\Users\hoang\Downloads\ProCNPM-dung\TEST\bin\Debug\TEST.exe.config
+C:\Users\hoang\Downloads\ProCNPM-dung\TEST\bin\Debug\TEST.exe
+C:\Users\hoang\Downloads\ProCNPM-dung\TEST\bin\Debug\TEST.pdb
+C:\Users\hoang\Downloads\ProCNPM-dung\TEST\obj\Debug\TEST.csprojAssemblyReference.cache
+C:\Users\hoang\Downloads\ProCNPM-dung\TEST\obj\Debug\TEST.FormLogin.resources
+C:\Users\hoang\Downloads\ProCNPM-dung\TEST\obj\Debug\TEST.FrmMain.resources
+C:\Users\hoang\Downloads\ProCNPM-dung\TEST\obj\Debug\TEST.Properties.Resources.resources
+C:\Users\hoang\Downloads\ProCNPM-dung\TEST\obj\Debug\TEST.UserControl_QuanLyThuoc.resources
+C:\Users\hoang\Downloads\ProCNPM-dung\TEST\obj\Debug\TEST.csproj.GenerateResource.cache
+C:\Users\hoang\Downloads\ProCNPM-dung\TEST\obj\Debug\TEST.csproj.CoreCompileInputs.cache
+C:\Users\hoang\Downloads\ProCNPM-dung\TEST\obj\Debug\TEST.csproj.CopyComplete
+C:\Users\hoang\Downloads\ProCNPM-dung\TEST\obj\Debug\TEST.exe
+C:\Users\hoang\Downloads\ProCNPM-dung\TEST\obj\Debug\TEST.pdb
+C:\Users\hoang\Documents\ZooCNPM\TEST\bin\Debug\TEST.exe.config
+C:\Users\hoang\Documents\ZooCNPM\TEST\bin\Debug\TEST.exe
+C:\Users\hoang\Documents\ZooCNPM\TEST\bin\Debug\TEST.pdb
+C:\Users\hoang\Documents\ZooCNPM\TEST\obj\Debug\TEST.csprojAssemblyReference.cache
+C:\Users\hoang\Documents\ZooCNPM\TEST\obj\Debug\TEST.FormLogin.resources
+C:\Users\hoang\Documents\ZooCNPM\TEST\obj\Debug\TEST.FrmMain.resources
+C:\Users\hoang\Documents\ZooCNPM\TEST\obj\Debug\TEST.Properties.Resources.resources
+C:\Users\hoang\Documents\ZooCNPM\TEST\obj\Debug\TEST.UserControl_QuanLyThuoc.resources
+C:\Users\hoang\Documents\ZooCNPM\TEST\obj\Debug\TEST.csproj.GenerateResource.cache
+C:\Users\hoang\Documents\ZooCNPM\TEST\obj\Debug\TEST.csproj.CoreCompileInputs.cache
+C:\Users\hoang\Documents\ZooCNPM\TEST\obj\Debug\TEST.csproj.CopyComplete
+C:\Users\hoang\Documents\ZooCNPM\TEST\obj\Debug\TEST.exe
+C:\Users\hoang\Documents\ZooCNPM\TEST\obj\Debug\TEST.pdb
+C:\Users\hoang\Documents\ZooCNPM\TEST\obj\Debug\TEST.Frm_AddThuoc.resources
+C:\Users\hoang\Documents\ZooCNPM\TEST\obj\Debug\TEST.Frm_EditThuoc.resources
+C:\Users\hoang\Documents\ZooCNPM\TEST\obj\Debug\TEST.UserControl_QuanLyDichVu.resources
+C:\Users\hoang\Documents\ZooCNPM\TEST\obj\Debug\TEST.UserControl1_NenGaiNgon.resources
+C:\Users\hoang\Documents\ZooCNPM\TEST\obj\Debug\TEST.Frm_AddDichVu.resources
+C:\Users\hoang\Documents\ZooCNPM\TEST\obj\Debug\TEST.Frm_Edit_DichVu.resources
+C:\Users\hoang\Documents\ZooCNPM\TEST\obj\Debug\TEST.UserControl1_ThongKeDoanhThu.resources
+C:\Users\hoang\Documents\ZooCNPM\TEST\obj\Debug\TEST.UserControl_ThongKe.resources
+D:\Dũng\ZooCNPM\TEST\bin\Debug\TEST.exe.config
+D:\Dũng\ZooCNPM\TEST\bin\Debug\TEST.exe
+D:\Dũng\ZooCNPM\TEST\bin\Debug\TEST.pdb
+D:\Dũng\ZooCNPM\TEST\obj\Debug\TEST.csprojAssemblyReference.cache
+D:\Dũng\ZooCNPM\TEST\obj\Debug\TEST.FormLogin.resources
+D:\Dũng\ZooCNPM\TEST\obj\Debug\TEST.FrmMain.resources
+D:\Dũng\ZooCNPM\TEST\obj\Debug\TEST.Frm_AddDichVu.resources
+D:\Dũng\ZooCNPM\TEST\obj\Debug\TEST.Frm_AddThuoc.resources
+D:\Dũng\ZooCNPM\TEST\obj\Debug\TEST.Frm_EditThuoc.resources
+D:\Dũng\ZooCNPM\TEST\obj\Debug\TEST.Frm_Edit_DichVu.resources
+D:\Dũng\ZooCNPM\TEST\obj\Debug\TEST.Properties.Resources.resources
+D:\Dũng\ZooCNPM\TEST\obj\Debug\TEST.UserControl1_NenGaiNgon.resources
+D:\Dũng\ZooCNPM\TEST\obj\Debug\TEST.UserControl1_ThongKeDoanhThu.resources
+D:\Dũng\ZooCNPM\TEST\obj\Debug\TEST.UserControl_QuanLyDichVu.resources
+D:\Dũng\ZooCNPM\TEST\obj\Debug\TEST.UserControl_QuanLyThuoc.resources
+D:\Dũng\ZooCNPM\TEST\obj\Debug\TEST.UserControl_ThongKe.resources
+D:\Dũng\ZooCNPM\TEST\obj\Debug\TEST.csproj.GenerateResource.cache
+D:\Dũng\ZooCNPM\TEST\obj\Debug\TEST.csproj.CoreCompileInputs.cache
+D:\Dũng\ZooCNPM\TEST\obj\Debug\TEST.csproj.CopyComplete
+D:\Dũng\ZooCNPM\TEST\obj\Debug\TEST.exe
+D:\Dũng\ZooCNPM\TEST\obj\Debug\TEST.pdb
+E:\Dũng\ZooCNPM\TEST\bin\Debug\TEST.exe.config
+E:\Dũng\ZooCNPM\TEST\bin\Debug\TEST.exe
+E:\Dũng\ZooCNPM\TEST\bin\Debug\TEST.pdb
+E:\Dũng\ZooCNPM\TEST\obj\Debug\TEST.FormLogin.resources
+E:\Dũng\ZooCNPM\TEST\obj\Debug\TEST.Form_SuaLichHencs.resources
+E:\Dũng\ZooCNPM\TEST\obj\Debug\TEST.Form_ThemLichHen.resources
+E:\Dũng\ZooCNPM\TEST\obj\Debug\TEST.Form_XoaLichHen.resources
+E:\Dũng\ZooCNPM\TEST\obj\Debug\TEST.FrmMain.resources
+E:\Dũng\ZooCNPM\TEST\obj\Debug\TEST.Frm_AddDichVu.resources
+E:\Dũng\ZooCNPM\TEST\obj\Debug\TEST.Frm_AddThuoc.resources
+E:\Dũng\ZooCNPM\TEST\obj\Debug\TEST.Frm_EditThuoc.resources
+E:\Dũng\ZooCNPM\TEST\obj\Debug\TEST.Frm_Edit_DichVu.resources
+E:\Dũng\ZooCNPM\TEST\obj\Debug\TEST.Properties.Resources.resources
+E:\Dũng\ZooCNPM\TEST\obj\Debug\TEST.UserControl_Account_System.resources
+E:\Dũng\ZooCNPM\TEST\obj\Debug\TEST.UserControl_LichHen.resources
+E:\Dũng\ZooCNPM\TEST\obj\Debug\TEST.UserControl_QuanLyDichVu.resources
+E:\Dũng\ZooCNPM\TEST\obj\Debug\TEST.UserControl_QuanLyThuoc.resources
+E:\Dũng\ZooCNPM\TEST\obj\Debug\TEST.UserControl_System.resources
+E:\Dũng\ZooCNPM\TEST\obj\Debug\TEST.UserControl_ThongKe.resources
+E:\Dũng\ZooCNPM\TEST\obj\Debug\TEST.csproj.GenerateResource.cache
+E:\Dũng\ZooCNPM\TEST\obj\Debug\TEST.csproj.CoreCompileInputs.cache
+E:\Dũng\ZooCNPM\TEST\obj\Debug\TEST.csproj.CopyComplete
+E:\Dũng\ZooCNPM\TEST\obj\Debug\TEST.exe
+E:\Dũng\ZooCNPM\TEST\obj\Debug\TEST.pdb
+E:\Dũng\ZooCNPM\TEST\bin\Debug\LiveCharts.dll
+E:\Dũng\ZooCNPM\TEST\bin\Debug\LiveCharts.WinForms.dll
+E:\Dũng\ZooCNPM\TEST\bin\Debug\LiveCharts.Wpf.dll
+E:\Dũng\ZooCNPM\TEST\bin\Debug\LiveCharts.pdb
+E:\Dũng\ZooCNPM\TEST\bin\Debug\LiveCharts.xml
+E:\Dũng\ZooCNPM\TEST\bin\Debug\LiveCharts.WinForms.pdb
+E:\Dũng\ZooCNPM\TEST\bin\Debug\LiveCharts.WinForms.xml
+E:\Dũng\ZooCNPM\TEST\bin\Debug\LiveCharts.Wpf.pdb
+E:\Dũng\ZooCNPM\TEST\bin\Debug\LiveCharts.Wpf.xml
